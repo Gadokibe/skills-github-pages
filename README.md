@@ -1,4 +1,4 @@
-<header>
+<minima>
 
 <!--
   <<< Author notes: Course header >>>
